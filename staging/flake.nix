@@ -9,7 +9,7 @@
   
   inputs.src-cbor-staging.flake = false;
   inputs.src-cbor-staging.owner = "~ehmry";
-  inputs.src-cbor-staging.ref   = "refs/heads/staging";
+  inputs.src-cbor-staging.ref   = "staging";
   inputs.src-cbor-staging.repo  = "nim_cbor";
   inputs.src-cbor-staging.type  = "sourcehut";
   
