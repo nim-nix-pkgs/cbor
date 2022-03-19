@@ -9,7 +9,7 @@
   
   inputs.src-cbor-0_5_0.flake = false;
   inputs.src-cbor-0_5_0.owner = "~ehmry";
-  inputs.src-cbor-0_5_0.ref   = "refs/tags/0.5.0";
+  inputs.src-cbor-0_5_0.ref   = "0.5.0";
   inputs.src-cbor-0_5_0.repo  = "nim_cbor";
   inputs.src-cbor-0_5_0.type  = "sourcehut";
   
