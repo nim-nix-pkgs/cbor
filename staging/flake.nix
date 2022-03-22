@@ -1,5 +1,5 @@
 {
-  description = ''Concise Binary Object Representation decoder (RFC7049).'';
+  description = ''Concise Binary Object Representation decoder and encoder (RFC7049).'';
 
   inputs.flakeNimbleLib.owner = "riinr";
   inputs.flakeNimbleLib.ref   = "master";
