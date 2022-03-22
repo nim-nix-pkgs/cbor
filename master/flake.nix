@@ -8,7 +8,7 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-cbor-master.flake = false;
-  inputs.src-cbor-master.ref   = "refs/heads/master";
+  inputs.src-cbor-master.ref   = "master";
   inputs.src-cbor-master.owner = "~ehmry";
   inputs.src-cbor-master.repo  = "nim_cbor";
   inputs.src-cbor-master.type  = "sourcehut";
