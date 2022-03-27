@@ -11,6 +11,7 @@
   inputs.src-cbor-staging.ref   = "staging";
   inputs.src-cbor-staging.owner = "~ehmry";
   inputs.src-cbor-staging.repo  = "nim_cbor";
+  inputs.src-cbor-staging.dir   = "";
   inputs.src-cbor-staging.type  = "sourcehut";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
