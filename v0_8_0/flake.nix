@@ -11,7 +11,6 @@
   inputs.src-cbor-v0_8_0.ref   = "v0.8.0";
   inputs.src-cbor-v0_8_0.owner = "~ehmry";
   inputs.src-cbor-v0_8_0.repo  = "nim_cbor";
-  inputs.src-cbor-v0_8_0.dir   = "";
   inputs.src-cbor-v0_8_0.type  = "sourcehut";
   
   inputs."bignum".owner = "nim-nix-pkgs";

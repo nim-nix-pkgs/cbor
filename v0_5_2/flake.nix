@@ -11,7 +11,6 @@
   inputs.src-cbor-v0_5_2.ref   = "v0.5.2";
   inputs.src-cbor-v0_5_2.owner = "~ehmry";
   inputs.src-cbor-v0_5_2.repo  = "nim_cbor";
-  inputs.src-cbor-v0_5_2.dir   = "";
   inputs.src-cbor-v0_5_2.type  = "sourcehut";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:

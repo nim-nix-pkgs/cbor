@@ -11,7 +11,6 @@
   inputs.src-cbor-master.ref   = "master";
   inputs.src-cbor-master.owner = "~ehmry";
   inputs.src-cbor-master.repo  = "nim_cbor";
-  inputs.src-cbor-master.dir   = "";
   inputs.src-cbor-master.type  = "sourcehut";
   
   inputs."bigints".owner = "nim-nix-pkgs";
