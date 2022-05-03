@@ -31,6 +31,22 @@
   inputs."cbor-0_5_0".inputs.nixpkgs.follows = "nixpkgs";
   inputs."cbor-0_5_0".inputs.flakeNimbleLib.follows = "flakeNimbleLib";
   
+  inputs."cbor-0_9_0".dir   = "0_9_0";
+  inputs."cbor-0_9_0".owner = "nim-nix-pkgs";
+  inputs."cbor-0_9_0".ref   = "master";
+  inputs."cbor-0_9_0".repo  = "cbor";
+  inputs."cbor-0_9_0".type  = "github";
+  inputs."cbor-0_9_0".inputs.nixpkgs.follows = "nixpkgs";
+  inputs."cbor-0_9_0".inputs.flakeNimbleLib.follows = "flakeNimbleLib";
+  
+  inputs."cbor-nim-cbor-0_9_0".dir   = "nim-cbor-0_9_0";
+  inputs."cbor-nim-cbor-0_9_0".owner = "nim-nix-pkgs";
+  inputs."cbor-nim-cbor-0_9_0".ref   = "master";
+  inputs."cbor-nim-cbor-0_9_0".repo  = "cbor";
+  inputs."cbor-nim-cbor-0_9_0".type  = "github";
+  inputs."cbor-nim-cbor-0_9_0".inputs.nixpkgs.follows = "nixpkgs";
+  inputs."cbor-nim-cbor-0_9_0".inputs.flakeNimbleLib.follows = "flakeNimbleLib";
+  
   inputs."cbor-v0_1_0".dir   = "v0_1_0";
   inputs."cbor-v0_1_0".owner = "nim-nix-pkgs";
   inputs."cbor-v0_1_0".ref   = "master";
