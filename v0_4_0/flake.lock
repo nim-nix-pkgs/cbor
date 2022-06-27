@@ -37,22 +37,22 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-cbor-staging": "src-cbor-staging"
+        "src-cbor-v0_4_0": "src-cbor-v0_4_0"
       }
     },
-    "src-cbor-staging": {
+    "src-cbor-v0_4_0": {
       "flake": false,
       "locked": {
-        "lastModified": 1602054728,
-        "narHash": "sha256-FygZZt1HA/7oQ6lf0wBSjCw4hoAuRFgAiLieOExsoSk=",
+        "lastModified": 1524995788,
+        "narHash": "sha256-WKiHf/QplB14DWSu5n9/K0WzkNSuw7jAZg1ZWiRanDA=",
         "owner": "~ehmry",
         "repo": "nim_cbor",
-        "rev": "08053469d5997e3bb181e85a23b146b5144cfff0",
+        "rev": "bc7c9a880055a3a2a3ac88878198e601f513da69",
         "type": "sourcehut"
       },
       "original": {
         "owner": "~ehmry",
-        "ref": "staging",
+        "ref": "v0.4.0",
         "repo": "nim_cbor",
         "type": "sourcehut"
       }

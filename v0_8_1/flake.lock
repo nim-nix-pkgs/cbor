@@ -65,7 +65,7 @@
         "bigints": "bigints",
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-cbor-trunk": "src-cbor-trunk"
+        "src-cbor-v0_8_1": "src-cbor-v0_8_1"
       }
     },
     "src-bigints-0_5_0": {
@@ -85,19 +85,19 @@
         "type": "github"
       }
     },
-    "src-cbor-trunk": {
+    "src-cbor-v0_8_1": {
       "flake": false,
       "locked": {
-        "lastModified": 1650822420,
-        "narHash": "sha256-SszhT1RWmyB3vYD59sGbbf++myEFpsRD8K0VsItdpAM=",
+        "lastModified": 1637683799,
+        "narHash": "sha256-HbjKHp9R8nE9yyuCG3ZyGuLeZkr57NQiOaZRHvJPS/Q=",
         "owner": "~ehmry",
         "repo": "nim_cbor",
-        "rev": "0eaf828238ab1c595a3851c319062e47886504e7",
+        "rev": "1ae2ef2abfcc12ca30ba7852df322ca9efb73e0a",
         "type": "sourcehut"
       },
       "original": {
         "owner": "~ehmry",
-        "ref": "trunk",
+        "ref": "v0.8.1",
         "repo": "nim_cbor",
         "type": "sourcehut"
       }
