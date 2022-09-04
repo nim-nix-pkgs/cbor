@@ -67,7 +67,7 @@
         "bigints": "bigints",
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-cbor-trunk": "src-cbor-trunk"
+        "src-cbor-20220831": "src-cbor-20220831"
       }
     },
     "src-bigints-0_5_0": {
@@ -87,7 +87,7 @@
         "type": "github"
       }
     },
-    "src-cbor-trunk": {
+    "src-cbor-20220831": {
       "flake": false,
       "locked": {
         "lastModified": 1661966196,
@@ -99,7 +99,7 @@
       },
       "original": {
         "owner": "~ehmry",
-        "ref": "trunk",
+        "ref": "20220831",
         "repo": "nim_cbor",
         "type": "sourcehut"
       }
